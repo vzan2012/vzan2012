@@ -7,7 +7,7 @@ I have more work experience on Front end development compared to the Back end de
 - 🌍  I'm based in Paris, France
 - 🖥️  See my portfolio at [Personal Website](http://vzan2012.github.io)
 - ✉️  You can contact me at [vzan2012@gmail.com](mailto:vzan2012@gmail.com)
-- 🚀  I'm currently working on [Food Order App](http://-)
+- 🚀  I'm currently working on [Food Order App]
 - 🧠  I'm learning ReactJS and GraphQL
 - 🤝  I'm open to collaborating on Open Source Projects
 - ⚡  Interested in learning advanced technologies to thrive my skills
