@@ -2,7 +2,7 @@
 
 ## Im a Full Stack Developer
 
-I have more work experience on Front end development compared to the Back end development. Now I'm currently learning ReactJS and GraphQL technologies to be more concentrating on Full Stack Development.
+I have more work experience on Front end development compared to Back end development. Now I'm currently learning ReactJS and GraphQL technologies to be more concentrating on Full Stack Development.
 
 - 🌍  I'm based in Paris, France
 - 🖥️  See my portfolio at [Personal Website](http://vzan2012.github.io)
